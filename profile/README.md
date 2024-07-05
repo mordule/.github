@@ -1,12 +1,40 @@
-## Hi there 👋
+<h1 align="center">Welcome to mordule 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://doc.mordule.com" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/curlback" target="_blank">
+    <img alt="Twitter: curlback" src="https://img.shields.io/twitter/follow/curlback.svg?style=social" />
+  </a>
+</p>
 
-<!--
+> Save more on deployment bills
 
-**Here are some ideas to get you started:**
+### 🏠 [Homepage](https://mordule.com)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Author
+
+👤 **curlback inc**
+
+- Website: https://curlback.com
+- Twitter: [@curlback](https://twitter.com/curlback)
+- Github: [@curlback](https://github.com/curlback)
+- LinkedIn: [@curlback](https://linkedin.com/in/curlback)
+
+---
